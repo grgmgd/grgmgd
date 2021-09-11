@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:activity-->
+
 ![Anurag's github stats](https://github-readme-stats-wheat-eta.vercel.app/api?username=grgmgd&count_private=true&include_all_commits=true&show_icons=true)
