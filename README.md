@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats-three-ruby-20.vercel.app/api?username=grgmgd&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
-![Top Langs](https://github-readme-stats-three-ruby-20.vercel.app/api/top-langs/?username=grgmgd&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats-three-ruby-20.vercel.app/api/top-langs/?username=grgmgd&layout=compact&count_private=true&include_all_commits=true)
