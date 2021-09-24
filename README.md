@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#6327](https://github.com/apollographql/apollo-client/issues/6327) in [apollographql/apollo-client](https://github.com/apollographql/apollo-client)
 <!--END_SECTION:activity-->
 
-![Anurag's github stats](https://github-readme-stats-wheat-eta.vercel.app/api?username=grgmgd&count_private=true&include_all_commits=true&show_icons=true)
+![George's github stats](https://github-readme-stats-wheat-eta.vercel.app/api?username=grgmgd&count_private=true&include_all_commits=true&show_icons=true)
