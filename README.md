@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6327](https://github.com/apollographql/apollo-client/issues/6327) in [apollographql/apollo-client](https://github.com/apollographql/apollo-client)
+1. 🗣 Commented on [#413](https://github.com/react-native-sensors/react-native-sensors/issues/413) in [react-native-sensors/react-native-sensors](https://github.com/react-native-sensors/react-native-sensors)
 <!--END_SECTION:activity-->
 
 ![George's github stats](https://github-readme-stats-wheat-eta.vercel.app/api?username=grgmgd&count_private=true&include_all_commits=true&show_icons=true)
