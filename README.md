@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3426](https://github.com/vercel/hyper/issues/3426) in [vercel/hyper](https://github.com/vercel/hyper)
+1. ❗️ Opened issue [#310](https://github.com/stovmascript/react-native-version/issues/310) in [stovmascript/react-native-version](https://github.com/stovmascript/react-native-version)
 <!--END_SECTION:activity-->
 
 ![George's github stats](https://github-readme-stats-wheat-eta.vercel.app/api?username=grgmgd&count_private=true&include_all_commits=true&show_icons=true)
