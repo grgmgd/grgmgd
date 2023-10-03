@@ -5,7 +5,7 @@
 ![George's github stats](https://github-readme-stats-wheat-eta.vercel.app/api?username=grgmgd&count_private=true&include_all_commits=true&show_icons=true)
 
 
-- 🔭 I’m currently working on [Yogobe](https://yogobe.com)
+- 🔭 I’m currently working at [Payrails](https://payrails.com)
 
 - 🌱 I’m currently learning **GoLang and C++**
 
